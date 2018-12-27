@@ -5,5 +5,3 @@ def say_hello(name)
   else
     print("Hello Ruby Programmer");
 end
-
-
