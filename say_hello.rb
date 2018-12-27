@@ -6,5 +6,4 @@ def say_hello(name)
     print("Hello Ruby Programmer");
 end
 
-say_hello("Vishal")
-say_hello()
+
