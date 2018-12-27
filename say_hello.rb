@@ -7,3 +7,4 @@ def say_hello(name)
 end
 
 say_hello("Vishal")
+say_hello()
